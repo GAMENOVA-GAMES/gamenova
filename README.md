@@ -3,6 +3,10 @@
 
 Welcome to the GAMENOVA github respiratory, we hope you enjoy the fun you can have at school with our website. It is heavily proxied and should be unblocked.
 
+## Website
+
+GAMENOVA is now available to everyone! [HERE](https://gamenova.pages.dev/) to play games!
+
 
 ## How to use
 
